@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Purva 👋
 
-<!--
-**Purva-Chaudhari-12/Purva-Chaudhari-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE student  
+Interested in software, systems, and problem solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+I am a Computer Science student with a strong interest in technology and problem solving.  
+I enjoy building projects, learning new concepts, and exploring how systems work.
+
+---
+
+## 🛠️ Skills
+- Programming: C, Python  
+- Problem Solving  
+- Basic understanding of software and systems  
+
+---
+
+## 🎯 Interests
+- Software development  
+- System design  
+- Designing  
+
+---
+
+## 🚀 Activities
+- Hackathon participant  
+- Tech enthusiast  
+- Working on projects  
+
+---
+
+## 🎤 Strengths
+- Public speaking  
+- Presentations  
+- Communication skills  
+
+---
+
+## 📈 Goal
+To continuously learn, build projects, and develop strong technical and problem-solving skills.
